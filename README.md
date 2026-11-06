@@ -1,4 +1,4 @@
-# Fleet Cost and Efficiency Analysis.
+# Fleet Cost and Efficiency Analysis
 
 Excel dashboard for analyzing fleet operational expenses.
 
